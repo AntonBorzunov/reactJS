@@ -1,0 +1,19 @@
+
+.nav{
+    margin-right: 2px;
+    color: #a7a7a7;
+    font-weight: 550;
+    grid-area: nav;
+    background-color: rgb(23, 23, 31);
+  }
+  .nav__consol__element{
+margin-top: 10px;
+margin-left: 15px;
+  }
+  .nav__consol__element a{
+    color: white;
+    text-decoration: none;
+  }
+.nav__consol__element a.nav_activeLink__t0CaS{
+color: gold;
+}

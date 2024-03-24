@@ -1,0 +1,11 @@
+
+.header{
+    margin-bottom: 1px;
+    grid-area:header;
+    background-color: rgb(23, 23, 31);
+  }
+  
+.header img {
+    height: 59px;
+    background-color: rgb(221, 144, 0);
+    }

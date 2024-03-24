@@ -1,0 +1,16 @@
+.content img{
+  background-color: rgb(29, 24, 14);
+height: 160px;
+width: 100%;
+}
+.content{
+  background-color:  rgb(23, 23, 31);
+  grid-area:content ;
+  color: aliceblue;
+}
+.textarea{
+  height: 40px;
+}
+.Wrapper{
+  margin: 10px;
+}

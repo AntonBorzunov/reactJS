@@ -1,0 +1,6 @@
+.content{
+text-decoration: none;
+color: aliceblue;
+display: flex;
+flex-direction: column;
+}
